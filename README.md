@@ -1,5 +1,13 @@
 # NLP Deeplearning PaperNote
 
+#### 2017-3
+Some ICML Submissions 
+
+<li> Controllable Text Generation 看到这篇文章的心情，我是有些崩溃的，因为我也想做这个任务。。。不过仔细看了看做法，和我想做的做法还是不一样。这篇文章利用VAE和一个类似GAN的思路，让文本生成可控。可控的意思是，我可以指定生成 快乐的文本，悲伤的文本（训练是用General训练的)
+<li> Linguistic Knowledge as Memory for Recurrent Neural Networks 这篇文章说了一个大标题，做了一个小事。大概意思就是RNN每个词只看前一个词的思路是不够滴，还需要看一些相关的邻居词。那这些词怎么找呢，例如我可以coreference把指代做出来啊，然后比如现在这个词是She那She指代的那个词的上下文也应该拿过来。这样他的RNN 的上下文就是一个 邻居的求和 而不是单独的一项。这篇paper很有道理，不过在应用中怎么找邻居，那真是日了狗。。。
+
+
+
 #### 2017-2
 ICLR 2017 Accpeted Paper I have read / am going to read [[ICLR](https://openreview.net/group?id=ICLR.cc/2017/conference)]
 
