@@ -1,5 +1,10 @@
 # NLP Deeplearning PaperNote
 
+#### 2017-5
+ICML accpeted paper
+<li> Latent Intention Dialogue Models 没有paper。。。不过我昨天刚想做一个Intention和attention结合的paper。。。So sad
+<li>Adversarial Feature Matching for Text Generation 看题目不错，不过还没有paper
+<li> Sequence Tutor: Conservative fine-tuning of sequence generation models with KL-control 用RL做Sequence Generation。虽然我看的不是很懂，但是我觉得这个方法值得一试，不是简单的combine MLE和Reward
 #### 2017-3
 Some ICML Submissions 
 
